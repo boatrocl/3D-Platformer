@@ -88,9 +88,6 @@ transform = Transform3D(0.984808, 0, 0.173648, 0, 1, 0, -0.173648, 0, 0.984808, 
 [node name="platform-falling9" parent="World" instance=ExtResource("9_2fnpo")]
 transform = Transform3D(0.984808, 0, 0.173648, 0, 1, 0, -0.173648, 0, 0.984808, 9.17006, 0.419294, 0.0985007)
 
-[node name="platform-falling10" parent="World" instance=ExtResource("9_2fnpo")]
-transform = Transform3D(0.984808, 0, 0.173648, 0, 1, 0, -0.173648, 0, 0.984808, 2.80694, 0.419294, 0.0985007)
-
 [node name="platform-falling11" parent="World" instance=ExtResource("9_2fnpo")]
 transform = Transform3D(0.984808, 0, 0.173648, 0, 1, 0, -0.173648, 0, 0.984808, 5.58726, 0.419294, 0.0985007)
 
